@@ -1,6 +1,6 @@
-![Hey there, I'm Chirag. I'm a Data Scientist, a coder and a runner. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/git_hi_there.gif)
+![Hey there, I'm Chirag. I'm a Data Scientist, a coder and a runner. Check out my work](https://github.com/chirag-jhamb/chirag-jhamb/raw/master/git_hi_there.gif)
 
-You can check out my resume ![here](http://bit.ly/git-cv)
+### You can check out my resume [here](http://bit.ly/git-cv)
 
 
 <!--
