@@ -1,4 +1,7 @@
-### Hi there 👋
+![Hey there, I'm Chirag. I'm a Data Scientist, a coder and a runner. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/git_hi_there.gif)
+
+You can check out my resume ![here](http://bit.ly/git-cv)
+
 
 <!--
 **chirag-jhamb/chirag-jhamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
