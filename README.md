@@ -1,6 +1,10 @@
 ![Hey there, I'm Chirag. I'm a Data Scientist, a coder and a runner. Check out my work](https://github.com/chirag-jhamb/chirag-jhamb/raw/master/git_hi_there.gif)
 
-### You can check out my resume [here](http://bit.ly/git-cv)
+### ⚡ You can check out my resume [here](http://bit.ly/git-cv) or 📬 find me at [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/chiragjhamb)]
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/chirag-jhamb) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:jhamb.chirag@gmail.com)
+
+😄 Pronouns: he/him
 
 
 <!--
